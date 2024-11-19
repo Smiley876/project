@@ -1,0 +1,54 @@
+body{ background-image: url('pizza.jpeg'); 
+background-repeat:no-repeat;
+background-position: top;
+background-size:1500px 500px;
+background-attachment: scroll;
+}
+
+h1{font-family:'Rosewood Std Regular','lucida handwritting','apple chancery',cursive;
+font-size: 100px;
+text-align: center;
+text-decoration: underline;}
+
+a:hover{ color:rgb(101, 215, 230);}
+
+
+nav a{ font-size: 30px;
+color: #000;
+margin-left: 435px;
+font-weight: bolder;
+}
+
+h2{text-decoration: overline underline;
+font-size: 35px;}
+
+h4::before{content: "🍕";
+    font-size: 35px;}
+
+   h4{font-size: 30px;
+     font-family: 'abode garamond pro italic', garamond, serif;
+     font-weight: bold;
+ }
+
+#i1{ border: 3px dashed red;
+padding:5px;}
+
+ #i2 { margin-left: 700px;
+    border: 4px dotted hwb(32 20% 0% / 0.801);
+        padding: 5px;
+    }
+
+#i3{ border: 3px dashed red;
+padding: 5px;}
+
+#i4{border: 4px dotted hwb(32 20% 0% / 0.801);
+padding: 5px;
+margin-left:750px ; }
+
+#c1{float: right;}
+.l1{margin-left: 700px;}
+dt { font-weight: 900;
+text-decoration: underline;}
+
+#caprese{ float:right;
+margin-right: 300px;}
